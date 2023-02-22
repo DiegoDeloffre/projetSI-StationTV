@@ -1,0 +1,3 @@
+spacy
+progress
+git+https://github.com/openai/whisper.git
