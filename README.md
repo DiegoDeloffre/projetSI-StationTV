@@ -1,6 +1,8 @@
 Ce projet a été réalisé dans le cadre d'un projet en 5ième année d'études à Polytech Tours. Il a pour but de de mettre en place un outil d'analyse d'une base de données sur le journalisme de données produite à l'occasion des élections présidentielles françaises 2022.
 Les différentes parties concernent la détection de mots-clés, la transcription audio, le string matching et des affichages sous forme de graphes.
+
 Voici le lien de la base de donnée : http://mathieu.delalandre.free.fr/projects/stvd/fc/
+
 Et du site miroir : https://dataset-stvd.univ-tours.fr/
 
 Pour utiliser les différents script il faut dans un premier temps installer les dépendances nécessaires.
