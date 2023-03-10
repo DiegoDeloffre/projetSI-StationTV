@@ -3,7 +3,7 @@ Les différentes parties concernent la détection de mots-clés, la transcriptio
 
 Voici le lien de la base de donnée : http://mathieu.delalandre.free.fr/projects/stvd/fc/
 
-Et du site miroir : https://dataset-stvd.univ-tours.fr/
+Et du site miroir : https://dataset-stvd.univ-tours.fr/fc/  
 
 Pour utiliser les différents script il faut dans un premier temps installer les dépendances nécessaires.
 Dans chaque dossier faire : "pip install -r requirements.txt"
