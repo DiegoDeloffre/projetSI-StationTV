@@ -11,10 +11,11 @@ Si le script utilise spacy, installer le modèle avec : "python -m spacy downloa
 
 Ce projet est en plusieurs parties.
 Voici le workflow :
+
     - Extraire les metadonnées des fichiers XML de la base de données 
         Code : xmlExtractor/main
         Resultat : metadata.json
-
+        
     - Générer le transcript des fichiers audio avec transcripts
         Code : transcripts/main
         Résultats : audio_transcripts.json
